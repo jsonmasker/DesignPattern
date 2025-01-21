@@ -15,6 +15,13 @@ namespace DesignPattern.Controllers
 
         public IActionResult Index()
         {
+            /*
+                We have 3 types of design patterns:
+                1. Creational Design Patterns
+                2. Structural Design Patterns
+                3. Behavioral Design Patterns
+
+             */
             return View();
         }
 
